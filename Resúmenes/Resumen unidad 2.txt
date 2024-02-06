@@ -1,0 +1,13 @@
+Unidad 2, por Alan Quinteros:
+
+
+
+Durante el transcurso de esta unidad, se revisaron los conceptos básicos y universales que son comunes a todos los lenguajes de programación.
+
+Los datos pueden ser de diversos tipos según las necesidades particulares de cada proyecto. Por ejemplo, para el manejo de valores de verdad se emplean los datos de tipo booleano, mientras que para la manipulación de números enteros se recurre a datos de tipo entero (integer).
+
+Las estructuras condicionales posibilitan la definición de reglas o condiciones que, al ser satisfechas, desencadenan la ejecución o interrupción de determinada instrucción o bloque de código.
+
+Por otro lado, los bucles representan estructuras destinadas a repetir un proceso un número definido de veces. Estos bucles también deben establecer una condición sobre la cual se basará su ejecución o detención.
+
+

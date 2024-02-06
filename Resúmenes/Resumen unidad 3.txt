@@ -1,0 +1,21 @@
+Unidad 3, por Alan Quinteros:
+
+
+Durante esta unidad se estudiaron los diferentes controladores de versiones.
+
+
+En esta unidad en particular, aprendimos sobre el uso de una de las herramientas 
+colaborativas y de respaldo más importantes en la industria. 
+
+Los controladores de versiones cómo GIT permiten llevar un control detallado de los
+cambios y actualizaciones realizadas a un proyecto, pudiendo también establecer 
+branches adicionales en las cuales se puede trabajar de forma paralela al proyecto.
+
+
+Entre los aspectos más importantes de esta unidad quisiera resaltar lo bien que se explica
+el uso de la línea de comandos para GIT. 
+
+
+Me alegra que ahora, el uso del sitio, registro y generación de SSO keys puedan realizarse
+de forma tan rápida y sencilla. 
+

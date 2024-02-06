@@ -1,0 +1,10 @@
+Unidad 1, por Alan Quinteros:
+
+
+Durante el transcurso de esta unidad, se han establecido los cimientos esenciales para iniciar el desempeño en el rol de desarrollador.
+
+Se dio inicio con el estudio del lenguaje de máquina, el cual se encuentra representado en formato binario. Adquirir conocimientos acerca de este sistema me ha permitido comprender con mayor profundidad las operaciones lógicas que tienen lugar dentro de un procesador durante el procesamiento de datos.
+
+De igual manera, la instrucción en algoritmos y lógica ha facilitado mi comprensión acerca de la estructura y sintaxis necesarias para abordar los ejercicios y proyectos correspondientes a esta etapa de estudio.
+
+Finalmente, se ha abordado el tema de los entornos de desarrollo, lo cual me ha permitido adquirir la consciencia de que existen diversas herramientas y métodos más efectivos que el simple uso de un editor de texto como el Bloc de Notas.
